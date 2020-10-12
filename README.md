@@ -1,5 +1,9 @@
 ## Status
+
+
 [![Build Status](https://secure.travis-ci.org/peterwillcn/rails4-autocomplete.png)](https://travis-ci.org/peterwillcn/rails4-autocomplete) [![Gem Version](https://badge.fury.io/rb/rails4-autocomplete.png)](http://badge.fury.io/rb/rails4-autocomplete)
+
+This is a fork to make it compaitable with jQuery 3
 
 Unfortunately, I don't have much time to work on this gem, I'm looking for
 someone to help with its maintenance. Send me an email if you are interested in
